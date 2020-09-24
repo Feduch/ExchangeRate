@@ -20,7 +20,7 @@ Every work day at 18:00 CET or 16:00 UTC is update currencies rates
 
 ### Requests
 
-Python 3.7
+Environment with Python 3.7
 
 ### Back-end Django
 ```
