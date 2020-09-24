@@ -1,0 +1,74 @@
+[
+{
+    "model": "rates.rate",
+    "pk": 4,
+    "fields": {
+        "rate": "26.965000",
+        "date": "2020-09-23",
+        "currency": 1
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 5,
+    "fields": {
+        "rate": "1.000000",
+        "date": "2020-09-23",
+        "currency": 3
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 6,
+    "fields": {
+        "rate": "4.500100",
+        "date": "2020-09-23",
+        "currency": 2
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 7,
+    "fields": {
+        "rate": "1.169200",
+        "date": "2020-09-23",
+        "currency": 4
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 8,
+    "fields": {
+        "rate": "27.015000",
+        "date": "2020-09-24",
+        "currency": 1
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 9,
+    "fields": {
+        "rate": "1.000000",
+        "date": "2020-09-24",
+        "currency": 3
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 10,
+    "fields": {
+        "rate": "4.529300",
+        "date": "2020-09-24",
+        "currency": 2
+    }
+},
+{
+    "model": "rates.rate",
+    "pk": 11,
+    "fields": {
+        "rate": "1.164500",
+        "date": "2020-09-24",
+        "currency": 4
+    }
+}
+]

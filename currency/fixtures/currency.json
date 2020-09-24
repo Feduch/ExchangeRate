@@ -1,0 +1,38 @@
+[
+{
+    "model": "currency.currency",
+    "pk": 1,
+    "fields": {
+        "name": "Czech koruna",
+        "code": "CZK",
+        "is_base": false
+    }
+},
+{
+    "model": "currency.currency",
+    "pk": 2,
+    "fields": {
+        "name": "Polish złoty",
+        "code": "PLN",
+        "is_base": false
+    }
+},
+{
+    "model": "currency.currency",
+    "pk": 3,
+    "fields": {
+        "name": "Euro",
+        "code": "EUR",
+        "is_base": true
+    }
+},
+{
+    "model": "currency.currency",
+    "pk": 4,
+    "fields": {
+        "name": "US dollar",
+        "code": "USD",
+        "is_base": false
+    }
+}
+]
